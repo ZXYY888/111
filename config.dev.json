@@ -1,0 +1,10 @@
+{
+  "api_key": "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",
+  "auto_pass": true,
+  "session_timeout": 60,
+  "max_tokens": 1024,
+  "model": "text-davinci-003",
+  "temperature": 1,
+  "reply_prefix": "",
+  "session_clear_token": "清空会话"
+}
